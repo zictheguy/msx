@@ -1,0 +1,10 @@
+{
+    "headline": "GitHub Pages Example",
+    "menu": [
+        {
+            "icon": "movie",
+            "label": "ROPHIM",
+            "data": "https://zictheguy.github.io/msx/data/base/links.json"
+        }        
+    ]
+}
