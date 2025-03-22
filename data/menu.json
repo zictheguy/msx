@@ -4,7 +4,7 @@
         {
             "icon": "movie",
             "label": "ROPHIM",
-            "data": "https://zictheguy.github.io/msx/data/base/links.json"
+            "data": "https://zictheguy.github.io/msx/data/links.json"
         }        
     ]
 }
