@@ -1,9 +1,9 @@
 {
-    "headline": "GitHub Pages Example",
+    "headline": "RoPhim - Phim Hay Ca Ro",
     "menu": [
         {
-            "icon": "movie",
-            "label": "ROPHIM",
+            "icon": "https://www.rophim.me/images/logo.svg",
+            "label": "RoPhim",
             "data": "https://zictheguy.github.io/msx/data/links.json"
         }        
     ]
