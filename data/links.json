@@ -5,7 +5,7 @@
       "tag": "Web",
       "type": "separate",
       "layout": "0,0,2,3",
-      "icon": "msx-white-soft:public",
+      "icon": "https://www.rophim.me/images/logo.svg",
       "color": "msx-glass"
    },
    "items": [
