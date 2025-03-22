@@ -10,16 +10,8 @@
    },
    "items": [
       {
-         "title": "Link 1",
-         "action": "link:http://rophim.me"
-      },
-      {
-         "title": "Link 2",
+         "title": "ROPHIM",
          "action": "link:https://www.rophim.me/phimhay"
-      },
-      {
-         "title": "Link 3",
-         "action": "link:window:http://msx.benzac.de/info/"
       }
    ]
 }
