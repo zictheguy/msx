@@ -1,21 +1,25 @@
 {
-    "type": "pages",
-    "headline": "Links",
-    "template": {
-	"tag": "Web",    
-        "type": "separate",
-        "layout": "0,0,2,3",
-        "icon": "msx-white-soft:music-note",
-        "color": "msx-glass"
-    },
-    "items": [
-        {
-            "title": "Link 1",
-            "action": "link:https://www.rophim.me/phimhay"
-        },
-        {
-            "title": "Link 2",
-            "action": "link:https://www.rophim.me"
-        }
-    ]
+   "type": "pages",
+   "headline": "Links",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "icon": "msx-white-soft:public",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Link 1",
+         "action": "link:http://rophim.me"
+      },
+      {
+         "title": "Link 2",
+         "action": "link:https://www.rophim.me/phimhay"
+      },
+      {
+         "title": "Link 3",
+         "action": "link:window:http://msx.benzac.de/info/"
+      }
+   ]
 }
