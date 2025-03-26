@@ -10,16 +10,28 @@
    },
    "items": [
       {
-         "title": "ROPHIM",
-         "action": "link:https://www.rophim.me/phimhay"
+         "title": "ROPHIM LITE",
+         "action": "link:https://lite.rophim.me"
       },
       {
-         "title": "ROPHIM SEARCH",
-         "action": "link:https://www.rophim.me/duyet-tim"
+         "title": "ROPHIM THIEUNHI",
+         "action": "link:https://lite.rophim.me/the-loai/thieu-nhi.TVBHfX"
+      },
+      {
+         "title": "ROPHIM DISNEY",
+         "action": "link:https://lite.rophim.me/the-loai/disney.MCencW"
+      };
+      {
+         "title": "ROPHIMBO",
+         "action": "link:https://lite.rophim.me/phim-bo"
       },
       {
          "title": "ROPHIMLE",
-         "action": "link:https://www.rophim.me/phim-le"
+         "action": "link:https://lite.rophim.me/phim-le"
+      },
+      {
+         "title": "ROPHIM DUYETTIM",
+         "action": "link:https://www.rophim.me/duyet-tim"
       }      
    ]
 }
